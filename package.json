@@ -49,7 +49,7 @@
     "url": "https://github.com/Enterprise-ir/Prima/issues"
   },
   "homepage": "https://github.com/Enterprise-ir/Prima#readme",
-  "devDependencies": {
-    "node": "^17.0.1"
+  "engines": {
+    "node": ">=18"
   }
 }
